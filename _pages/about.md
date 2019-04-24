@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-sup i like meta things
+sup
