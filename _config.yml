@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexi Turcotte"
+title                    : "alexi turcotte"
 title_separator          : "-"
-name                     : &name "Alexi Turcotte"
+name                     : &name "alexi turcotte"
 description              : &description "i might program sometimes"
 url                      : https://reallytg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexi Turcotte"
+  name             : "alexi turcotte"
   avatar           : "profile.jpg"
   bio              : "i might program sometimes"
   location         : "nuprl"
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "reallyTG"
   vine             :
   weibo            :
   xing             :
