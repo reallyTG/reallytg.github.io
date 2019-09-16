@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-08-31-nondeterministic-semantics
 excerpt: 'embrace nondeterminism'
 date: 2018-08-31
-venue: 'University of Waterloo Master\'s Thesis'
+venue: 'University of Waterloo'
 paperurl: 'http://reallytg.github.io/files/papers/thesis.pdf'
 citation: 'Alexi Turcotte. 2018. Reasoning About Foreign Function Interfaces: Blame and Nondeterministic Formal Semantics. MMAth Computer Science.'
 ---

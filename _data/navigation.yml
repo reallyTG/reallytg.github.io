@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "talks"
     url: /talks/
 
-  - title: "Blog Posts"
+  - title: "blog"
     url: /year-archive/
 
-  - title: "CV"
+  - title: "sunglasses"
+    url: /sunglasses/
+
+  - title: "cv"
     url: /files/the_cv.pdf
