@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "alexi turcotte"
+  name             : "Alexi Turcotte"
   avatar           : "profile.jpg"
   bio              : "i might program sometimes"
-  location         : "nuprl"
-  employer         :
+  location         : "Boston, MA"
+  employer         : "Northeastern University"
   googlescholar    : "https://scholar.google.ca/citations?user=doNFcFwAAAAJ&hl=en"
-  email            :
+  email            : "turcotte.al@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
