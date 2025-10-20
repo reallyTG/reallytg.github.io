@@ -83,10 +83,10 @@ author:
   name             : "Alexi Turcotte"
   avatar           : "profile.jpg"
   bio              : "i might program sometimes"
-  location         : "Boston, MA"
-  employer         : "Northeastern University"
+  location         : "Saabrücken, Germany"
+  employer         : "CISPA"
   googlescholar    : "https://scholar.google.ca/citations?user=doNFcFwAAAAJ&hl=en"
-  email            : "turcotte.al@northeastern.edu"
+  email            : "alexi.turcotte@cispa.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "reallyTG"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
