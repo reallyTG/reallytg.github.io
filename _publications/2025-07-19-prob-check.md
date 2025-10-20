@@ -2,7 +2,7 @@
 title: "Expressing and Checking Statistical Assumptions"
 collection: publications
 permalink: /publication/2025-07-19-prob-check
-excerpt: 'Statistics is tricky business, and programs meant to perform statistics do not give analysts feedback when they make mistakes. In this paper, we explore how data that does not appear to be compliant w.r.t. assumptions made by statistical methods affects the outcome of statistical tests, and propose an approach to automatically deliver feedback to analysts when such assumptions appear to be violated.'
+excerpt: 'Statistics is tricky business, and programs meant to perform statistics do not give analysts feedback when they make mistakes. In this paper, we explore how data that does not appear to be compliant w.r.t. assumptions made by statistical methods affects the outcome of statistical tests, and propose an approach to automatically deliver feedback to analysts when such assumptions appear to be violated. <b>This paper received an ACM SIGSOFT Distinguished Paper Award!</b>'
 date: 2025-07-19
 venue: 'FSE'
 paperurl: 'http://reallytg.github.io/files/papers/prob_check.pdf'
