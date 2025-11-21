@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm Alexi Turcotte, a recent Ph.D. graduate from Northeastern University.
-I was co-advised by Frank Tip and Jan Vitek; I worked with Frank primarily on program analysis, refactoring, and optimizations for JavaScript, and with Jan on type systems, language design, and fuzzing for the R programming language.
+I'm Alexi Turcotte, and I work at the (broad) intersection of programming languages (PL), software engineering (SE), security, and data science.
+One way to characterize my work is that I apply PL and SE techniques in the domains of security and data science.
+In my work, I've identified new classes of flaws in programs that I can detect and fix automatically with specialized tooling based on program analysis.
+These flaws can result in security vulnerabilities, pathological performance, general inefficiency, and even impact the conclusions drawn from data analysis.
 
-I'm doing a postdoc with Andreas Zeller at the CISPA Helmholtz Center for Information Security, in Saabrücken, Germany.
+I received my PhD from Northeastern University in Boston, MA, USA, co-advised by Frank Tip and Jan Vitek.
+I'm currently a postdoc in Andreas Zeller's group at the CISPA Helmholtz Institute for Information Security in Saarbrücken, Germany.
+Research is more fun when we're doing it together; __please reach out if you'd like to work together!__
