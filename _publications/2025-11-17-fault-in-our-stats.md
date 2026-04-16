@@ -6,7 +6,7 @@ excerpt: 'As mentioned below, statistics is tricky, but there are many steps tha
 date: 2025-11-17
 venue: 'ASE'
 paperurl: 'http://reallytg.github.io/files/papers/ase25_statlint_final_final.pdf'
-citation: 'Alexi Turcotte and Neev Nirav Mehta. 2025. <i>The Fault in our Stats.</i> In 40th IEEE/ACM International Conference on Automated Software Engineering (ASE). Rochester, MI, USA. ACM, New York, NY, USA., 13 pages. DOI to come.'
+citation: 'Alexi Turcotte and Neev Nirav Mehta. 2025. <i>The Fault in our Stats.</i> In 40th IEEE/ACM International Conference on Automated Software Engineering (ASE). Rochester, MI, USA. ACM, New York, NY, USA., 13 pages. https://doi.org/10.1109/ASE63991.2025.00205'
 ---
 
 Data analysts need to be careful when they apply
