@@ -9,8 +9,11 @@ main:
   - title: "blog"
     url: /year-archive/
 
-  - title: "sunglasses"
-    url: /sunglasses/
+  - title: "teaching"
+    url: /teaching/
+
+  - title: "students"
+    url: /students/
 
   - title: "cv"
     url: /files/the_cv.pdf

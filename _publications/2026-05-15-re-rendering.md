@@ -2,11 +2,11 @@
 title: "Remediating Superfluous Re-Rendering in React Applications"
 collection: publications
 permalink: /publication/2026-05-15-re-rendering
-excerpt: 'React is a ubiquitous front-end JavaScript library that pitches a smart mechanism to determine how much of a web page needs to be re-rendered when a change occurs. There are a few pitfalls that developers can fall into when developing such applications, and in this work we propose a set of anti-patterns and fixes to remediate these common isues.'
+excerpt: 'React is a ubiquitous front-end JavaScript library that pitches a smart mechanism to determine how much of a web page needs to be re-rendered when a change occurs. There are a few pitfalls that developers can fall into when developing such applications, and in this work we propose a set of anti-patterns and fixes to remediate these common issues. <b>This paper received an ACM SIGSOFT Distinguished Paper Award!</b>'
 date: 2026-05-15
 venue: 'ICSE'
 paperurl: 'http://reallytg.github.io/files/papers/icse_26_rerendering.pdf'
-citation: 'Farideh Khalili and Satyajit Gokhale, Alexi Turcotte, Dale Xu, and Frank Tip. <i>Remediating Superfluous Re-Rendering in React Applications</i> In Proceedings of the 48th International Conference on Software Engineering (ICSE). Association for Computing Machinery, New York, NY, USA. More information to come.'
+citation: 'Farideh Khalili, Satyajit Gokhale, Alexi Turcotte, Dale Xu, and Frank Tip. <i>Remediating Superfluous Re-Rendering in React Applications</i> In Proceedings of the 48th International Conference on Software Engineering (ICSE). Association for Computing Machinery, New York, NY, USA. More information to come.'
 ---
 
 React is an extremely popular framework for constructing user
